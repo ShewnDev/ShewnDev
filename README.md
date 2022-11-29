@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D20C&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&width=435&lines=%F0%9F%94%B1+Destek+%26+Yard%C4%B1m+%C4%B0%C3%A7in+'Shewn%3F%232018" alt="Typing SVG" /></a>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ShewnKe&color=gold"/>
+    <img src="https://komarev.com/ghpvc/?username=ShewnKe&color=golden"/>
 </div>
 
 Selamlar ben Shewn? Discord botlarıyla uğraşıyorum ve sizlere bu hizmeti sunacağım şimdiden iyi günlerde kullanın.
