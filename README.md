@@ -4,6 +4,7 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ShewnKe&color=yellow"/>
+    <img src="https://komarev.com/ghpvc/?username=ShewnKe&label=Ziyaretçi%20Sayısı&color=yellow" alt="ShewnKe" />
 </div>
 
 Selamlar ben Shewn? Discord botlarıyla uğraşıyorum ve sizlere bu hizmeti sunacağım şimdiden iyi günlerde kullanın.
