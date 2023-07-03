@@ -8,7 +8,7 @@
 
 Selamlar ben Shewn? Discord botlarıyla uğraşıyorum ve sizlere bu hizmeti sunacağım şimdiden iyi günlerde kullanın.
 
-```ts
+```js
 const ShewnDev = "Discord Developer"
 ```
 [![Discord Profilim](https://lanyard.cnrad.dev/api/693185687758962698)](https://discord.com/users/693185687758962698)
