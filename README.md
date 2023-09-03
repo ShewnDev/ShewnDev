@@ -1,6 +1,6 @@
 ### Shewn? Discord Developer <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D20C&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&width=435&lines=%F0%9F%94%B1+Destek+%26+Yard%C4%B1m+%C4%B0%C3%A7in+shewnsex" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D20C&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&width=435&lines=%F0%9F%94%B1+Destek+%26+Yard%C4%B1m+%C4%B0%C3%A7in+shewnexe" alt="Typing SVG" /></a>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ShewnDev&label=Ziyaretçi%20Sayısı&color=yellow" alt="ShewnDev" />
