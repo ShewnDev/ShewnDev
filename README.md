@@ -26,4 +26,4 @@ Size sunacağım projelerim ile ilgili herhangi bir sorun olursa bana Discord'da
 <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
 <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-1151d1?style=flat-square&logo=python&logoColor=white"/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e52c2da4c7f8465eb0bce97c89789456&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uide52c2da4c7f8465eb0bce97c89789456&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jds3oy6auvf3qfh6ndl66m5ogq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jds3oy6auvf3qfh6ndl66m5ogq&redirect=true)
