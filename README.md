@@ -24,3 +24,4 @@ Size sunacağım projelerim ile ilgili herhangi bir sorun olursa bana Discord'da
 
 <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-1151d1?style=flat-square&logo=typescript&logoColor=white"/>
 <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+<img alt="Python" align="center" src="https://img.shields.io/badge/-Python-edb200?style=flat-square&logo=python&logoColor=white"/>
