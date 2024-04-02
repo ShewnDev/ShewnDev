@@ -7,7 +7,16 @@ Bu GitHub hesabım ile sizlere Discord Botları ile ilgili altyapılar sunacağ�
 Size sunacağım projelerim ile ilgili herhangi bir sorun olursa bana Discord'dan ulaşabilirsiniz.
 
 ```js
-const ShewnDev = "Discord Developer"
+module.exports = {
+    birthday = '25',
+    birthmonth = 'September',
+    height = '1.78',
+    weight = '65',
+    type = 'human',
+    job = 'sailor',
+    hobby = 'programmer',
+    gender = 'male'
+}
 ```
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
