@@ -10,8 +10,8 @@ Size sunacağım projelerim ile ilgili herhangi bir sorun olursa bana Discord'da
 module.exports = {
     birthday = '25',
     birthmonth = 'September',
-    height = '1.78',
-    weight = '65',
+    height = '1.80',
+    weight = '71',
     type = 'human',
     job = 'sailor',
     hobby = 'programmer',
